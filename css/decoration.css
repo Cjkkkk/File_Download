@@ -1,0 +1,20 @@
+body {
+  background-image: url(img/vertical-waves.jpg);
+  padding:10px ;
+
+}
+
+.container{
+	font-family: 'Raleway', cursive;
+}
+a {color:#252525; text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {color:#ba2636;text-decoration:underline;}
+a:active {color:#ba2636;}
+
+.ERROR{
+    font-family: 'Raleway', cursive;
+    font-size: 80px;
+    padding: 80px;
+    text-align:center;
+}
